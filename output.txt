@@ -1,0 +1,10 @@
+
+=== Borrowing Books ===
+Alice borrowed "The Great Gatsby".
+Bob cannot borrow "The Great Gatsby" as it is already borrowed.
+Bob borrowed "1984".
+
+=== Returning Books ===
+Alice returned "The Great Gatsby".
+Bob returned "1984".
+Bob does not have "The Great Gatsby" to return.
